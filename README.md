@@ -3,11 +3,9 @@
 <a href='https://github.com/AliTaheri2002/Forgetting-A-New-Mechanism-Towards-Better-Large-Language-Model-Fine-tuning'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://openreview.net/pdf?id=s36smEoUoX'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a>
 
-[Ali Taheri*](https://alitaheri2002.github.io/), [Alireza Taban*](https://www.linkedin.com/in/alireza-taban-90a460121/), [Qizhou Wang](https://qizhouwang.github.io/homepage/), [Shanshan Ye](https://cassie133ye.github.io/), [Abdolreza Mirzaei](https://people.iut.ac.ir/en/mirzaei), [Tongliang Liu](https://tongliang-liu.github.io/), [Bo Han](https://bhanml.github.io/)
+[Ali Taheri](https://alitaheri2002.github.io/)<sup>*1</sup>, [Alireza Taban](https://www.linkedin.com/in/alireza-taban-90a460121/)<sup>*1</sup>, [Qizhou Wang](https://qizhouwang.github.io/homepage/)<sup>2</sup>, [Shanshan Ye](https://cassie133ye.github.io/)<sup>3</sup>, [Abdolreza Mirzaei](https://people.iut.ac.ir/en/mirzaei)<sup>4</sup>, [Tongliang Liu](https://tongliang-liu.github.io/)<sup>5</sup>, [Bo Han](https://bhanml.github.io/)<sup>2</sup>
 
-*Equal contribution
-
-Isfahan University of Technology, Hong Kong Baptist University, University of Technology Sydney, Simon Fraser University, The University of Sydney
+<sub><sup>*</sup>Equal contribution</sub>, <sub><sup>1</sup>Isfahan University of Technology, <sup>2</sup>Hong Kong Baptist University, <sup>3</sup>University of Technology Sydney, <sup>4</sup>Simon Fraser University, <sup>5</sup>The University of Sydney</sub>
 -----
 ## Abstract
 
